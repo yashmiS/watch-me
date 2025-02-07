@@ -9,3 +9,7 @@ body {
 #__ next {
     @apply h-full;
 }
+
+html {
+    @apply h-full;
+}
